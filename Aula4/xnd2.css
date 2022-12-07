@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: pink
+}
+
+img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+   
